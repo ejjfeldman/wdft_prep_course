@@ -32,7 +32,7 @@ Use the console.log() function and the array .pop() to add all the values in the
 var sum = 0;
 
 while(numbers.length != 0){
-    sum+=numbers.pop();//write pop function here FIX??
+    sum+=numbers.pop();
 }
 
 console.log(sum);
